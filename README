@@ -1,0 +1,9 @@
+This is a Space Ships Game designed in Java. There are endless amounts of levels. The goal is to destroy all the down-coming ships before they reach you. If they touch you, the game will simply give you your score and exite.
+
+Control:
+A - Left
+D - Right
+W - Up
+S - Down
+
+Spacebar - Shoot
